@@ -1,0 +1,13 @@
+@use 'colors.scss' as *;
+
+.navlink {
+    cursor: pointer;
+}
+
+.navlink-active {
+    color: $primary;
+}
+
+.navlink-inactive {
+    color: $dark-light;
+}

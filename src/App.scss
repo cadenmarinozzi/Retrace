@@ -1,0 +1,24 @@
+@use './vars.scss' as *;
+@use './colors.scss' as *;
+
+.page {
+    position: absolute;
+
+    top: $navigation-height;
+
+    background: $dark-dark;
+
+    margin: 20px;
+    padding: 20px;
+
+    width: calc(100% - 40px - 40px);
+    height: calc(100% - $navigation-height * 2 - 40px - 40px);
+
+    border-radius: $border-radius-page;
+
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

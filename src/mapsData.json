@@ -1,0 +1,25 @@
+[
+	{
+		"name": "SF to Mill Valley",
+		"from": "San Francisco",
+
+		"to": "Mill Valley",
+		"distance": 12.4,
+		"time": "1:23:45",
+		"elevation": "1,234",
+		"type": "Run",
+		"path": [
+			[-122.4194, 37.7749],
+			[-122.5076, 37.7597]
+		]
+	},
+	{
+		"time": "1:23:45",
+		"elevation": "1,234",
+		"type": "Bike",
+		"path": [
+			[-122.4194, 37.7749],
+			[-122.5076, 37.8597]
+		]
+	}
+]

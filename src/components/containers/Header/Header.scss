@@ -1,0 +1,16 @@
+@use 'vars.scss' as *;
+@use 'colors.scss' as *;
+
+.header {
+    position: fixed;
+
+    width: 100%;
+    height: $navigation-height;
+
+    background: $dark-darkest;
+
+    display: flex;
+    justify-content: space-around;
+
+    align-items: center;
+}

@@ -1,0 +1,18 @@
+@use 'vars.scss' as *;
+@use 'colors.scss' as *;
+
+.footer {
+    position: fixed;
+
+    width: 100%;
+    height: $navigation-height;
+
+    bottom: 0;
+
+    background: $dark-dark;
+
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}

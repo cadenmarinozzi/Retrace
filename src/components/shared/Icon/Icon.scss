@@ -1,0 +1,15 @@
+@use 'colors.scss' as *;
+
+.icon {
+    margin: 5px;
+
+    transition: 0.2s;
+}
+
+.icon-button {
+    cursor: pointer;
+}
+
+.icon-button:hover {
+    color: rgba($dark-light, 0.5);
+}
