@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Retrace/static/css/main.669b1a80.css",
+    "main.js": "/Retrace/static/js/main.06404e6a.js",
+    "index.html": "/Retrace/index.html",
+    "main.669b1a80.css.map": "/Retrace/static/css/main.669b1a80.css.map",
+    "main.06404e6a.js.map": "/Retrace/static/js/main.06404e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.669b1a80.css",
+    "static/js/main.06404e6a.js"
+  ]
+}
